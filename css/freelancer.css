@@ -63,7 +63,7 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #18bc9c;
+    background-color: #58C0FF;
 }
 
 hr.star-primary {
@@ -82,7 +82,8 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #18bc9c;
+    background: 50% center url(/img/portfolio/imagemoss.jpg);
+
 }
 
 header .container {
@@ -91,6 +92,8 @@ header .container {
 }
 
 header img {
+    height: 20%;
+    width: 20%;
     display: block;
     margin: 0 auto 20px;
 }
@@ -99,7 +102,7 @@ header .intro-text .name {
     display: block;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 2em;
+    font-size: 20px;
     font-weight: 700;
 }
 
